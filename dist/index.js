@@ -1,4 +1,5 @@
 "use strict";
+//cambio de la nueva rama
 //TIPOS DE DATOS TYPE SCRIPT
 //BASIC
 let myTypeNumero = 40;
